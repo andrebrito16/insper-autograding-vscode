@@ -1,0 +1,1 @@
+export const baseURL = "http://3.139.20.244/iag";
